@@ -1,0 +1,6 @@
+{
+  "name": "TeleRecon OSINT Workbench",
+  "description": "Asynchronous 7-stage Telegram OSINT orchestration framework and interactive intelligence dashboard chaining Telethon MTProto, Maigret, Sherlock, Holehe, and image forensics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

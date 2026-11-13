@@ -1,0 +1,11 @@
+# SpectraGram — Telegram Digital Footprint & Exposure Auditor
+# Author: Abolfazl Shaghaghi (@shaghaghidev) | https://shaghaghidev.ir
+# Repository: https://github.com/shaghaghidev/spectragram
+# 100% Pure-Python / Windows-Compatible Wheels (Python 3.10+)
+
+aiohttp>=3.9.5
+httpx>=0.27.0
+Telethon>=1.36.0
+Pillow>=10.3.0
+ImageHash>=4.3.1
+beautifulsoup4>=4.12.3
